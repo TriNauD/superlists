@@ -1,0 +1,9 @@
+db.sqlite3
+deckodriver.log
+__pycache__
+*.pyc
+*.pyc
+*.pyc
+.pyc
+*.pyc
+.DS_Store
