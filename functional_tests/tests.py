@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 from selenium.common.exceptions import WebDriverException
-
+#set the max waiting time
 MAX_WAIT = 10
 
 class NewVisitorTest(LiveServerTestCase): #(1)
